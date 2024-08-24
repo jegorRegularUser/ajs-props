@@ -16,3 +16,6 @@ function Stars(props:{count:number}) {
 }
 
 export default Stars;
+Stars.defaultProps = {
+  count: 0
+  };

@@ -14,6 +14,7 @@ function Films() {
     <Stars count={5}></Stars>
     <Stars count={2}></Stars>
     <Stars count={12}></Stars>
+    <Stars></Stars>
     <Stars count={1}></Stars>
     </div>
   );
